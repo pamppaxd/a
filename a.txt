@@ -1,1 +1,12 @@
-{"mark", "cristian", "peter", "alfa", "boomer"}
+mark
+toronto
+leaf
+apple
+brick
+house
+alfa
+lilly
+tryout
+concrete
+bully
+bias
